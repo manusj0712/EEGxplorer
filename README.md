@@ -15,7 +15,7 @@ Cesar requiere de Python 3.0.1 o superior.
 
 ## Usage
 
-La carpeta `docs` contiene el documento `user_guide.pdf` con las instrucciones necesarias para ejecutar el script.
+El documento `user_guide.pdf` contiene las instrucciones necesarias para ejecutar el script.
 
 
 ## Funding
