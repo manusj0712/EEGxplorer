@@ -29,7 +29,7 @@ This work has been funded by:
 <div style="text-align: right">
   <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/miciu.jpg" height="60">
   <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/erdf.png" height="60">
-  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/Imagen1.png" height="60">
+  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/imagen1.png" height="60">
 </div>
 
 ## License
