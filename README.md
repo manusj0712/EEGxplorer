@@ -7,7 +7,7 @@ Script that allows you to execute different classification algorithms, obtaining
 
 ## Author
 
-Manuel Sánchez Jiménez ([manusj0712@correo.ugr.es](mailto:manusj0712@correo.ugr.es))
+Manuel Sánchez Jiménez ([manusj0712@correo.ugr.es](mailto:manusj0712@correo.ugr.es)) and Juan José Escobar ([jjescobar@ugr.es](mailto:jjescobar@ugr.es))
 
 ## Requirements
 
@@ -22,8 +22,8 @@ The document `user_guide.pdf` contains the instructions necessary to run the scr
 
 This work has been funded by:
 
-* Spanish *Ministerio de Ciencia, Innovación y Universidades* under grant number PGC2018-098813-B-C31.
-* *European Regional Development Fund (ERDF)*.
+* Spanish Ministerio de Ciencia, Innovación y Universidades under grant number PGC2018-098813-B-C31.
+* European Regional Development Fund (ERDF).
 * Universidad de Granada, under grant number PPJIA2023-025.
 
 <div style="text-align: right">
