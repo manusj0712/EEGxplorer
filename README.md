@@ -22,7 +22,7 @@ The document `user_guide.pdf` contains the instructions necessary to run the scr
 
 This work has been funded by:
 
-* Spanish Ministerio de Ciencia, Innovación y Universidades under grant number PGC2018-098813-B-C31.
+* Spanish Ministerio de Ciencia, Innovación y Universidades under grant numbers PID2022-137461NB-C32 and PID2020-119478GB-I00.
 * European Regional Development Fund (ERDF).
 * Universidad de Granada, under grant number PPJIA2023-025.
 
